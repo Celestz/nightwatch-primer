@@ -2,24 +2,42 @@
 <testsuites name="cambogia"
              errors="0"
              failures="0"
-             tests="3">
+             tests="5">
   
   <testsuite errors="0" failures="0" hostname="" id=""
-    name="Fill Cambogia" package="cambogia" skipped="0"
+    name="Fill Out Index" package="cambogia" skipped="0"
     tests="3" time="" timestamp="">
     
     
-      <testcase name="Element &lt;form[name=&quot;f&quot;]&gt; was present after 1706 milliseconds.">
+      <testcase name="Element &lt;form[name=&quot;f&quot;]&gt; was present after 2037 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;.modal-backdrop.in&gt; was not visible after 4197 milliseconds.">
+      <testcase name="Element &lt;.modal-backdrop.in&gt; was not visible after 3783 milliseconds.">
         
         
       </testcase>
     
       <testcase name="Testing if the URL contains &quot;checkout&quot;.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Checkout Single Bottle Package" package="cambogia" skipped="0"
+    tests="2" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;.modal-backdrop.in&gt; was not visible after 1720 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if the URL contains &quot;upsell&quot;.">
         
         
       </testcase>
