@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="react"
+             errors="0"
+             failures="0"
+             tests="4">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Get React" package="react" skipped="0"
+    tests="4" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 139 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#todoExample li&gt; contains text: &quot;nightwatch&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#todoExample li:nth-child(2)&gt; contains text: &quot;patrick&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#todoExample li:nth-child(3)&gt; contains text: &quot;checkmate&quot;.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

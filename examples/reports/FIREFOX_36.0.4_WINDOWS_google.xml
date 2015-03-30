@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="google"
+             errors="0"
+             failures="1"
+             tests="4">
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Demo test Google" package="google" skipped="1"
+    tests="4" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 243 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;button[name=btnG]&gt; was visible after 277 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#main&gt; contains text: &quot;The Night Watch&quot;.">
+        
+          <failure message="Expected &quot;The Night Watch&quot; but got: &quot;WebImagesVideosBooksNewsMore
+Search tools
+About 6,940,000 results (0.31 seconds) 
+
+
+Night Watch (2004 film) - Wikipedia, the free encyclopedia
+en.wikipedia.org/wiki/Night_Watch_(2004_film)
+Night Watch (Russian: Ночной дозор, Nochnoy dozor) is a 2004 Russian urban fantasy supernatural thriller film directed by Timur Bekmambetov. It is loosely ...
+Day Watch (film) - Night Watch (Lukyanenko novel) - Sergei Lukyanenko
+Nightwatch - Episodes, Video &amp; Schedule - A&amp;E
+www.aetv.com/nightwatch
+A&amp;E Network premieres the new nonfiction series Nightwatch from executive producer Dick Wolf and his Wolf Reality along with 44 Blue Productions.
+Season 1 - Retaliation - Cast - Video
+Night Watch - IMDb
+www.imdb.com/title/tt0403358/
+Rating: 6.5/10 - 44,775 votes
+Directed by Timur Bekmambetov. With Konstantin Khabenskiy, Vladimir Menshov, Mariya Poroshina, Valeriy Zolotukhin. A fantasy-thriller set in present-day ...
+Nightwatch (1997) - IMDb
+www.imdb.com/title/tt0119791/
+Rating: 6.2/10 - 14,887 votes
+Ewan McGregor plays a law student who takes a job as a night watchman at a morgue. He begins to discover clues that implicate him as the suspect of a serial ...
+Release Dates - User Reviews - Parents Guide - Trivia
+Night&#39;s Watch - Game of Thrones Wiki
+gameofthrones.wikia.com/wiki/Night&#39;s_Watch
+The Night&#39;s Watch is a military order which holds and guards the Wall, the immense ice structure...
+Night&#39;s Watch - A Wiki of Ice and Fire
+awoiaf.westeros.org/index.php/Night&#39;s_Watch
+Mar 19, 2015 - The Night&#39;s Watch is a military order dedicated to holding the Wall, the immense fortification on the northern border of the Seven Kingdoms, ...
+Images for nightwatch
+Report images
+More images for nightwatch
+Night Watch - Rotten Tomatoes
+www.rottentomatoes.com/m/night_watch_2006/
+Rating: 58% - 127 votes
+Critics Consensus: This Russian horror/fantasy film pits darkness and light against each other using snazzy CGI visuals to create an extraordinary atmosphere of ...
+Apple - Trailers - Night Watch (Nochnoi Dozor)
+trailers.apple.com/trailers/fox_searchlight/night_watch/
+NIGHT WATCH (NOCHNOI DOZOR) is the first installment of a trilogy based on the best-selling sci-fi novels of Sergei Lukyanenko entitled Night Watch, Day ...
+Nightwatch.js | Node.js powered End-to-End testing framework
+nightwatchjs.org/
+Nightwatch.js is an easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites. It uses the powerful Selenium WebDriver ...
+Searches related to nightwatch
+nightwatch 1997
+nightwatch 1994
+nightwatch book
+nightwatch marvel
+nightwatch wiki
+nightwatch monitor
+kgs nightwatch
+nightwatch trailer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Next
+See results about
+Night Watch (2004 film)
+Initial release: July 8, 2004 (Russia)
+Director: Timur Bekmambetov
+Nightwatch (1997 film)
+Initial release: 1997
+Director: Ole Bornedal
+Feedback
+Quezon City, Metro Manila - From your Internet address - Use precise location - Learn more   
+Help Send feedback Privacy Terms&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>
